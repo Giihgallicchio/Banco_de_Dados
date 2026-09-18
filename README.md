@@ -1,1 +1,1 @@
-# Programa-o_para_Banco_de_Dados
+# Repositório sobre as Aulas de Banco de Dados da faculdade Senac SP
