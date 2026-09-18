@@ -24,11 +24,3 @@
 <p>Ao final das atividades, o repositório reúne diferentes exercícios práticos desenvolvidos em SQL, permitindo visualizar a aplicação de conceitos de consultas, funções, views e procedimentos armazenados.</p>
 
 <p>Os arquivos estão organizados de acordo com as atividades realizadas durante as aulas.</p>
-
-
-
-## Autoria
-
-<p><strong>Giovanna Galichio</strong></p>
-
-<p>Faculdade Senac</p>
