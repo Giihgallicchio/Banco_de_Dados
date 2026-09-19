@@ -1,26 +1,23 @@
 # PROJETO - BANCO DE DADOS
 
 ## Tema do Projeto
-<h1>Atividades e Estudos de Banco de Dados</h1>
+<h1>Atividades e Estudos de Banco de Dados - SENAC</h1>
 
 ## Autora
 - Giovanna Galichio
 
 ## Descrição do Projeto
 
-<p>Este repositório reúne atividades, exercícios e conteúdos desenvolvidos durante as aulas da disciplina de Banco de Dados da faculdade Senac.</p>
+<p>Este repositório reúne atividades, exercícios e conteúdos desenvolvidos durante os estudos da disciplina de Banco de Dados da Faculdade Senac.</p>
 
-<p>O projeto tem como objetivo armazenar e organizar os códigos SQL desenvolvidos ao longo das aulas, permitindo acompanhar a evolução dos conhecimentos relacionados à criação, manipulação e consulta de bancos de dados.</p>
+<p>O projeto tem como objetivo organizar os códigos SQL desenvolvidos ao longo das aulas, permitindo acompanhar a evolução dos conhecimentos relacionados à criação, manipulação e consulta de bancos de dados.</p>
 
-<p>Os arquivos presentes no repositório abordam diferentes recursos da linguagem SQL, incluindo consultas, funções, procedimentos armazenados e views.</p>
+<p>Os arquivos presentes no repositório abordam diferentes conceitos de bancos de dados relacionais e da linguagem SQL, aplicados por meio de exercícios e atividades práticas.</p>
 
+## Organização do Repositório
 
-## Objetivo do Repositório
+<p>Os arquivos estão organizados de acordo com as atividades e exercícios realizados durante as aulas, facilitando a consulta e o acompanhamento dos conteúdos desenvolvidos.</p>
 
-<p>O foco deste repositório é documentar as atividades realizadas durante a disciplina de Banco de Dados, mantendo os códigos organizados e facilitando o acompanhamento dos conteúdos estudados.</p>
+## Referência
 
-<p>Além de servir como registro acadêmico, o projeto também pode ser utilizado como material de consulta para estudos futuros sobre SQL e bancos de dados relacionais.</p>
-
-<p>Ao final das atividades, o repositório reúne diferentes exercícios práticos desenvolvidos em SQL, permitindo visualizar a aplicação de conceitos de consultas, funções, views e procedimentos armazenados.</p>
-
-<p>Os arquivos estão organizados de acordo com as atividades realizadas durante as aulas.</p>
+<p>Os conteúdos e exercícios deste repositório foram desenvolvidos durante as aulas da disciplina de Banco de Dados da Faculdade Senac.</p>
