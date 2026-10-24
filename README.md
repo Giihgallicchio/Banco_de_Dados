@@ -1,23 +1,38 @@
-# PROJETO - BANCO DE DADOS
+# 📊 PROJETO — BANCO DE DADOS
 
-## Tema do Projeto
-<h1>Atividades e Estudos de Banco de Dados - SENAC</h1>
+## 📌 Tema do Projeto
+### Atividades e Estudos de Banco de Dados — SENAC
 
-## Autora
-- Giovanna Galichio
+---
 
-## Descrição do Projeto
+## 📝 Descrição do Projeto
 
-<p>Este repositório reúne atividades, exercícios e conteúdos desenvolvidos durante os estudos da disciplina de Banco de Dados da Faculdade Senac.</p>
+Este repositório reúne atividades, exercícios e conteúdos práticos desenvolvidos durante os estudos da disciplina de **Banco de Dados**. 
 
-<p>O projeto tem como objetivo organizar os códigos SQL desenvolvidos ao longo das aulas, permitindo acompanhar a evolução dos conhecimentos relacionados à criação, manipulação e consulta de bancos de dados.</p>
+O projeto tem como objetivo organizar os códigos desenvolvidos ao longo das aulas, permitindo acompanhar a evolução prática na criação, manipulação, modelagem e consulta de dados. Inicialmente focado no modelo relacional, o repositório também engloba práticas modernas em bancos NoSQL.
 
-<p>Os arquivos presentes no repositório abordam diferentes conceitos de bancos de dados relacionais e da linguagem SQL, aplicados por meio de exercícios e atividades práticas.</p>
+---
 
-## Organização do Repositório
+## 🛠️ Tecnologias e Conceitos Estudados
 
-<p>Os arquivos estão organizados de acordo com as atividades e exercícios realizados durante as aulas, facilitando a consulta e o acompanhamento dos conteúdos desenvolvidos.</p>
+* **Bancos de Dados Relacionais (SQL):** Criação de tabelas, consultas complexas, manipulação de dados (DML/DDL), Views, Procedures, Triggers e Functions.
+* **Bancos de Dados Não Relacionais (NoSQL):** Estruturação de dados orientada a documentos, consultas (queries) e atualizações utilizando a sintaxe do **MongoDB**.
 
-## Referência
+---
 
-<p>Os conteúdos e exercícios deste repositório foram desenvolvidos durante as aulas da disciplina de Banco de Dados da Faculdade Senac.</p>
+## 📁 Organização do Repositório
+
+Os arquivos estão divididos de forma cronológica para facilitar a consulta das atividades e a revisão dos conteúdos:
+
+| Arquivo/Diretório | Descrição da Atividade | Tecnologia |
+| :--- | :--- | :---: |
+| `Ado_1.sql` ao `Ado_2.sql` | Atividades Avaliativas (Procedures, Views, Triggers) | `SQL` |
+| `Bdaula_1.sql` ao `Bdaula_5.sql` | Exercícios práticos realizados em sala de aula | `SQL` |
+| `Bdaula_6.mongodb` | Introdução a consultas, filtros e atualizações de coleções | `MongoDB` |
+
+---
+
+## 🎓 Referência
+
+Todo o progresso registrado aqui foi construído com base nas orientações, desafios e materiais fornecidos pelo corpo docente da **Faculdade Senac**.
+
